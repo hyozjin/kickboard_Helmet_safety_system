@@ -4,7 +4,7 @@
 
 
 ## 🛠 개발 기간 및 사용 기술 (Tech Stack)
-- **Hardware** : ATmega128 (JMOD-128-1, 5V 기반), ToF 센서, 블루투스 모듈
+- **Hardware** : ATmega128 (JMOD-128-1, 5V 기반), 초음파 센서(HC-SR04), 블루투스 모듈
 - **Software** : C (Embedded), Python (Pandas)
 
 
