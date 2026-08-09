@@ -22,7 +22,7 @@ Fail-safe(급제동 방지) 로직: 주행 중 헬멧 이탈 시 모터 정지�
 시스템 순서도
 
 수신부
-<img width="700" height="1416" alt="수신부 순서도" src="https://github.com/user-attachments/assets/b041c24e-dc71-40c8-81d2-568a5e61b9a5" />
+<img width="500" height="700" alt="수신부 순서도" src="https://github.com/user-attachments/assets/b041c24e-dc71-40c8-81d2-568a5e61b9a5" />
 
 송신부
-<img width="551" height="758" alt="송신부 순서도" src="https://github.com/user-attachments/assets/d7890438-ec34-4ef9-9db2-e878349b7ad3" />
+<img width="400" height="600" alt="송신부 순서도" src="https://github.com/user-attachments/assets/d7890438-ec34-4ef9-9db2-e878349b7ad3" />
