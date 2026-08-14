@@ -5,7 +5,7 @@
 
 ## 🛠 개발 기간 및 사용 기술 (Tech Stack)
 - **Hardware** : ATmega128 (JMOD-128-1, 5V 기반), 초음파 센서(HC-SR04), 블루투스 모듈
-- **Software** : C (Embedded)<img width="632" height="1214" alt="수신부 순서도" src="https://github.com/user-attachments/assets/bfddedd9-80a5-4685-8085-4226457f7ad0" />
+- **Software** : C (Embedded)
 
 
 
@@ -22,7 +22,7 @@
 <br>
 
 **[수신부]**
-<img width="632" height="1214" alt="수신부 순서도" src="https://github.com/user-attachments/assets/c2e04aff-52f8-46e0-95c2-974063d6513a" />
+<img width="550" height="1000" alt="수신부 순서도" src="https://github.com/user-attachments/assets/c2e04aff-52f8-46e0-95c2-974063d6513a" />
 
 
 
